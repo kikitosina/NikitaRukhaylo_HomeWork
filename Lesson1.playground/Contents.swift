@@ -1,4 +1,3 @@
-import Cocoa
 import Foundation
 
 // Решить квадратное уравнение
@@ -67,5 +66,5 @@ if deposit <= 0 || percent <= 0 {
     }
     print(deposit)
 }
-
+// как-то так
 
